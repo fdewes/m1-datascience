@@ -3,8 +3,8 @@ Just a requirements.txt that contains all data science packages that work with m
 
 Open "terminal" app and run:
 
-    mkdir m1_dsenv
-    cd m1_dsenv
+    mkdir m1ds
+    cd m1ds
     python3 -mvenv .
     source bin/activate
     git clone https://github.com/fdewes/m1-datascience
