@@ -1,6 +1,8 @@
 # m1-datascience
 Just a requirements.txt that contains all python data science packages that work with the default python installation of macOS Monterey on M1 / Apple Silicon.
 
+## Installation and Starting
+
 Open "terminal" app and run:
 
     mkdir m1ds
@@ -11,3 +13,13 @@ Open "terminal" app and run:
     pip install -U pip
     pip install -r m1-datascience/requirements.txt
     jupyter lab
+
+## Deactivation
+
+    deactivate
+
+## To start again, just run
+
+    source m1ds/bin/activate
+
+    
