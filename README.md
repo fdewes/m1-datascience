@@ -18,7 +18,7 @@ Open "terminal" app and run:
 
     deactivate
 
-## To start again, just run
+## To activate the environment again, just run
 
     source m1ds/bin/activate
 
