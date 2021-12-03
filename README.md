@@ -14,12 +14,13 @@ Open "terminal" app and run:
     pip install -r m1-datascience/requirements.txt
     jupyter lab
 
-## Deactivation
+## To deactivate the environment, run
 
     deactivate
 
 ## To activate the environment again, just run
 
     source m1ds/bin/activate
+    jupyter lab
 
     
