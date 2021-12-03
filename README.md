@@ -6,16 +6,16 @@ Just a requirements.txt that contains all python data science packages that work
 * numpy 
 * pandas 
 * scipy
+* scikit-learn
 * spacy 
 * nltk
 * beautifulsoup4
-* scikit-learn
 * matplotlib
 * seaborn
 * plotly
 * networkx
 * folium
-
+* imblearn
 
 ## Installation and Starting
 
