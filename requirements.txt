@@ -4,8 +4,10 @@ argon2-cffi==21.1.0
 attrs==21.2.0
 Babel==2.9.1
 backcall==0.2.0
+beautifulsoup4==4.10.0
 bleach==4.1.0
 blis==0.7.5
+bs4==0.0.1
 catalogue==2.0.6
 certifi==2021.10.8
 cffi==1.15.0
@@ -57,6 +59,7 @@ pathy==0.6.1
 pexpect==4.8.0
 pickleshare==0.7.5
 Pillow==8.4.0
+plotly==5.4.0
 preshed==3.0.6
 prometheus-client==0.12.0
 prompt-toolkit==3.0.23
@@ -80,10 +83,12 @@ six==1.16.0
 sklearn==0.0
 smart-open==5.2.1
 sniffio==1.2.0
+soupsieve==2.3.1
 spacy==3.2.0
 spacy-legacy==3.0.8
 spacy-loggers==1.0.1
 srsly==2.4.2
+tenacity==8.0.1
 terminado==0.12.1
 testpath==0.5.0
 thinc==8.0.13
