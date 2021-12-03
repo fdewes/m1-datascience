@@ -7,6 +7,8 @@ Just a requirements.txt that contains all python data science packages that work
 * pandas 
 * scipy
 * scikit-learn
+* torch
+* fastai
 * spacy 
 * nltk
 * beautifulsoup4
