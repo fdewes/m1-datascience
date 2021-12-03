@@ -13,6 +13,9 @@ Just a requirements.txt that contains all python data science packages that work
 * matplotlib
 * seaborn
 * plotly
+* networkx
+* folium
+
 
 ## Installation and Starting
 
