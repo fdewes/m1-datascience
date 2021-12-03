@@ -1,6 +1,19 @@
 # m1-datascience
 Just a requirements.txt that contains all python data science packages that work with the default python installation of macOS Monterey on M1 / Apple Silicon.
 
+## Included Packages
+
+* numpy 
+* pandas 
+* scipy
+* spacy 
+* nltk
+* beautifulsoup4
+* scikit-learn
+* matplotlib
+* seaborn
+* plotly
+
 ## Installation and Starting
 
 Open "terminal" app and run:
@@ -8,17 +21,16 @@ Open "terminal" app and run:
     mkdir m1ds
     cd m1ds
     python3 -mvenv .
-    source bin/activate
     git clone https://github.com/fdewes/m1-datascience
     pip install -U pip
     pip install -r m1-datascience/requirements.txt
     jupyter lab
 
-## To deactivate the environment, run
+## To Deactivate the Environment, Run
 
     deactivate
 
-## To activate the environment again, just run
+## To Activate the Environment Again, just Run
 
     source m1ds/bin/activate
     jupyter lab
