@@ -1,7 +1,7 @@
 # m1-datascience
 Just a requirements.txt that contains all python data science packages that work with the default python installation of macOS Monterey on M1 / Apple Silicon.
 
-## Included Packages
+## Most Important Packages
 
 * numpy 
 * pandas 
@@ -18,6 +18,8 @@ Just a requirements.txt that contains all python data science packages that work
 * networkx
 * folium
 * imblearn
+* streamlit
+
 
 ## Installation and Starting
 
